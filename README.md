@@ -1,16 +1,15 @@
-## Hi there 👋
+# YouTube No-Pause 🛑▶️
 
-<!--
-**Youtube-No-Pause/youtube-no-pause** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A lightweight Chrome extension that elegantly dismisses YouTube's "Still watching?" popups to keep videos playing uninterrupted in the background.
 
-Here are some ideas to get you started:
+🌍 **Live Website:** [Insert your new github.io link here]
+🔗 **Chrome Web Store:** [Insert your Chrome Store link here]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Overview
+YouTube No-Pause is designed for focus, productivity, and background listening. It runs completely silently in the background, interacting with the browser only when necessary to dismiss inactivity prompts and auto-resume your media.
+
+## Privacy First
+Engineered for security. Built with zero tracking, zero analytics, and requires no unnecessary browser permissions. Your viewing history and personal data are never collected. 
+
+---
+*Built for the community. Not affiliated with Google or YouTube.*
